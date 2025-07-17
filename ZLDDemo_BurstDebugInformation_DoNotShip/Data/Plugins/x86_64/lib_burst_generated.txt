@@ -129,7 +129,7 @@ Library: D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\StagingArea\Data\Plu
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_URP
---linker-options=PdbAltPath="make_water_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="ZLDDemo_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\Burst
 --output=D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
@@ -281,7 +281,7 @@ Library: D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\StagingArea\Data\Plu
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_URP
---linker-options=PdbAltPath="make_water_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="ZLDDemo_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\Burst
 --output=D:\Unity\Projects\Unity-Fluid-Simulation-main\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
